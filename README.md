@@ -17,8 +17,8 @@
 - [x] Izveidot Github kontu
 - [x] Lokāla projekta izvietošana Github
 - [x] Papildināt lokālo projekta versiju
-- [ ] Projektam piesaistīts vēl viens programmētājs
-- [ ] Novērsti issues iesniegumi
-- [ ] Izveidot jaunu zaru un sapludināt to ar master
+- [x] Projektam piesaistīts vēl viens programmētājs
+- [x] Novērsti issues iesniegumi
+- [x] Izveidot jaunu zaru un sapludināt to ar master
 
 ![Metamā kauliņa attēls](https://pngimg.com/uploads/dice/dice_PNG49.png)
